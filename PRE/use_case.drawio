@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T06:29:40.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="1qDXFuTD_-v9azx6lIuG" version="21.5.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-30T06:40:46.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="MldfHepEwVpk_dtWUMtr" version="21.5.2" type="github" pages="4">
   <diagram name="HOMEWORK1" id="S9eCcpIKx9PP3oiz-U9N">
-    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -295,7 +295,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R3yXGNyiEyo5ZpDzy0rW" name="EXAM">
-    <mxGraphModel dx="1434" dy="2561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="2377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -410,10 +410,117 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yUkgqDUWJjpUFXGuRJpF" name="Exam2">
-    <mxGraphModel dx="1687" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="2377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PrVtXy2nj26-mdthHKSq-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-220" width="630" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="PrVtXy2nj26-mdthHKSq-1">
+          <mxGeometry width="630" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-3" value="Use Case" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;verticalAlign=middle;spacingLeft=10;fontStyle=1" vertex="1" parent="PrVtXy2nj26-mdthHKSq-2">
+          <mxGeometry width="233" height="43" as="geometry">
+            <mxRectangle width="233" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-4" value="온라인 쇼핑몰 구매하기" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;" vertex="1" parent="PrVtXy2nj26-mdthHKSq-2">
+          <mxGeometry x="233" width="397" height="43" as="geometry">
+            <mxRectangle width="397" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="PrVtXy2nj26-mdthHKSq-1">
+          <mxGeometry y="43" width="630" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-6" value="Actor" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;verticalAlign=middle;spacingLeft=10;fontStyle=1" vertex="1" parent="PrVtXy2nj26-mdthHKSq-5">
+          <mxGeometry width="233" height="44" as="geometry">
+            <mxRectangle width="233" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-7" value="고객, 쇼핑몰" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;" vertex="1" parent="PrVtXy2nj26-mdthHKSq-5">
+          <mxGeometry x="233" width="397" height="44" as="geometry">
+            <mxRectangle width="397" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="PrVtXy2nj26-mdthHKSq-1">
+          <mxGeometry y="87" width="630" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-9" value="Purpose &amp;amp; Overview" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;verticalAlign=middle;spacingLeft=10;fontStyle=1" vertex="1" parent="PrVtXy2nj26-mdthHKSq-8">
+          <mxGeometry width="233" height="43" as="geometry">
+            <mxRectangle width="233" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-10" value="고객이 원하는 아이템을 찾고, 장비구니에 담으며 구매할 수 있게 도와준다" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;" vertex="1" parent="PrVtXy2nj26-mdthHKSq-8">
+          <mxGeometry x="233" width="397" height="43" as="geometry">
+            <mxRectangle width="397" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="PrVtXy2nj26-mdthHKSq-1">
+          <mxGeometry y="130" width="630" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-12" value="Type" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;verticalAlign=middle;spacingLeft=10;fontStyle=1" vertex="1" parent="PrVtXy2nj26-mdthHKSq-11">
+          <mxGeometry width="233" height="44" as="geometry">
+            <mxRectangle width="233" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-13" value="Primary, Evident" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;" vertex="1" parent="PrVtXy2nj26-mdthHKSq-11">
+          <mxGeometry x="233" width="397" height="44" as="geometry">
+            <mxRectangle width="397" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="PrVtXy2nj26-mdthHKSq-1">
+          <mxGeometry y="174" width="630" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-15" value="Pre-Requisites" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;verticalAlign=middle;spacingLeft=10;fontStyle=1" vertex="1" parent="PrVtXy2nj26-mdthHKSq-14">
+          <mxGeometry width="233" height="43" as="geometry">
+            <mxRectangle width="233" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-16" value="고객은 쇼핑몰에 가입되어 있다." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;" vertex="1" parent="PrVtXy2nj26-mdthHKSq-14">
+          <mxGeometry x="233" width="397" height="43" as="geometry">
+            <mxRectangle width="397" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="PrVtXy2nj26-mdthHKSq-1">
+          <mxGeometry y="217" width="630" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-18" value="Typical Courses of Events" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;verticalAlign=middle;spacingLeft=10;fontStyle=1" vertex="1" parent="PrVtXy2nj26-mdthHKSq-17">
+          <mxGeometry width="233" height="162" as="geometry">
+            <mxRectangle width="233" height="162" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-19" value="1. 사용자가 쇼핑몰에 접속하여 로그인한다.&lt;br&gt;2. 사용자가 원하는 아이템을 검색하거나 장비구니로 이동한다.&lt;br&gt;(아이템 검색)&lt;br&gt;3-1. 검색 결과가 나타나면 사용자는 원하는 아이템을 장바구니에 담는다.&lt;br&gt;3-2. 사용자는 계속해서 아이템을 검색하고 Cart에 추가할 수 있다.&lt;br&gt;3-3. 사용자는 아이템을 계속해서 검색하거나 장비구니로 이동한다.&lt;br&gt;(장비구니 이동)&lt;br&gt;4-1. 장바구니에서 아이템을 선택하여 Checkout 한다." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;" vertex="1" parent="PrVtXy2nj26-mdthHKSq-17">
+          <mxGeometry x="233" width="397" height="162" as="geometry">
+            <mxRectangle width="397" height="162" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="PrVtXy2nj26-mdthHKSq-1">
+          <mxGeometry y="379" width="630" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-21" value="Alternative Courses of Events" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;verticalAlign=middle;spacingLeft=10;fontStyle=1" vertex="1" parent="PrVtXy2nj26-mdthHKSq-20">
+          <mxGeometry width="233" height="111" as="geometry">
+            <mxRectangle width="233" height="111" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-22" value="(검색 결과가 없는 경우)&lt;br&gt;3a. 검색 결과가 없는 경우 메시지 창을 띄어주고 다시 검색창으로 이동한다." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;" vertex="1" parent="PrVtXy2nj26-mdthHKSq-20">
+          <mxGeometry x="233" width="397" height="111" as="geometry">
+            <mxRectangle width="397" height="111" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="PrVtXy2nj26-mdthHKSq-1">
+          <mxGeometry y="490" width="630" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-24" value="Exceptional Courses of Events" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;verticalAlign=middle;spacingLeft=10;fontStyle=1" vertex="1" parent="PrVtXy2nj26-mdthHKSq-23">
+          <mxGeometry width="233" height="120" as="geometry">
+            <mxRectangle width="233" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrVtXy2nj26-mdthHKSq-25" value="(장바구니에서 아이템을 선택하지 않고 Checkout 한 경우)&lt;br&gt;4a. 아이템이 선택하지 않았다고 경고한다.&lt;br&gt;&lt;br&gt;(장바구니에 담긴 아이템이 품절된 경우)&lt;br&gt;4b. 아이템의 품절을 알리며, 재입고될 경우 알림이 갈 수 있도록 가이드한다." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;" vertex="1" parent="PrVtXy2nj26-mdthHKSq-23">
+          <mxGeometry x="233" width="397" height="120" as="geometry">
+            <mxRectangle width="397" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
