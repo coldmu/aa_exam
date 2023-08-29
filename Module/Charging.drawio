@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T12:27:33.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="LVxrn5HPC8q7TsNlUTL0" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T12:42:12.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="wwDWjoBXrEQ8GiBIRBuj" version="21.6.9" type="github">
   <diagram name="페이지-1" id="TSmsFzjCLMcM0O48RYxD">
     <mxGraphModel dx="998" dy="1002" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KCZC0ZmPBuYUuUpHD8fJ-1" value="&lt;b&gt;Module - Charging&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;width=403;height=53;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KCZC0ZmPBuYUuUpHD8fJ-1" value="&lt;b&gt;Module - Charging&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;width=242;height=34;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1136" y="8" width="744" height="767" as="geometry" />
         </mxCell>
         <mxCell id="KCZC0ZmPBuYUuUpHD8fJ-2" style="edgeStyle=none;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;labelBackgroundColor=none;strokeColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;endArrow=open;endFill=0;endSize=15;" edge="1" parent="1" source="KCZC0ZmPBuYUuUpHD8fJ-8" target="KCZC0ZmPBuYUuUpHD8fJ-4">
